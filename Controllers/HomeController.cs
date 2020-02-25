@@ -21,7 +21,7 @@ namespace WebAppLocalBuild.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Hello world....";
 
             return View();
         }
